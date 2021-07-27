@@ -1,2 +1,2 @@
 # example-maven-runnable-jar
-Maven version
+A simple runnable `Maven` based Java jar
